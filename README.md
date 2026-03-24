@@ -1,8 +1,5 @@
 # 🚀 DevOps Bash Toolkit Assessment
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/your-username/devops-bash-toolkit/grade.yml)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/devops-bash-toolkit)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/devops-bash-toolkit)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
@@ -226,3 +223,5 @@ Provide an interactive menu:
 logs/app.log
 ```
 * Handle script failures gracefully
+  
+**Submission link:** https://forms.gle/8WsQDXWqDhuYPFxk9
